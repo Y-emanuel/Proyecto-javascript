@@ -89,3 +89,4 @@ class alumnos {
 						    alert(Maria.info + resultado);
 							    Maria.pase();
 				}
+
