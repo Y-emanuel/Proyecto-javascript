@@ -1,0 +1,30 @@
+
+#games, .itemCarrito{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.producto {
+    height: 420px;
+    width: 350px;
+}
+
+.producto img {
+    width: 70%;
+}
+
+.pocoStock{
+    background-color: red;
+
+    margin: 4px;
+}
+
+#contenedorCarrito{
+    margin-top: 70px;
+    border: black 2px solid;
+    min-height: 100px;
+}
+
+.itemCarrito *{
+    margin: 5px;
+}
